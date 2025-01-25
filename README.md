@@ -1,4 +1,5 @@
 #EV Market Analysis
+
 This project provides a comprehensive analysis of the electric vehicle (EV) market using Exploratory Data Analysis (EDA). By leveraging data on demographics, income levels, and public perception, we deliver actionable insights for businesses, policymakers, and marketers in the EV industry.
 
 Features
